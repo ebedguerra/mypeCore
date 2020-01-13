@@ -1,4 +1,5 @@
 # MypeCore
+Proyecto para módulos de Gestión para la Micro y Pequeña Empresa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
